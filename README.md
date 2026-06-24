@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/prince-sahetya/Leetcodes/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/prince-sahetya/Leetcodes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prince-sahetya/Leetcodes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prince-sahetya/Leetcodes/tree/master/0073-set-matrix-zeroes) |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prince-sahetya/Leetcodes/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/prince-sahetya/Leetcodes/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
