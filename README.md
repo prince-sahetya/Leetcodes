@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/prince-sahetya/Leetcodes/tree/master/1189-maximum-number-of-balloons) |
+| [2833-furthest-point-from-origin](https://github.com/prince-sahetya/Leetcodes/tree/master/2833-furthest-point-from-origin) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/prince-sahetya/Leetcodes/tree/master/1189-maximum-number-of-balloons) |
+| [2833-furthest-point-from-origin](https://github.com/prince-sahetya/Leetcodes/tree/master/2833-furthest-point-from-origin) |
 ## Array
 |  |
 | ------- |
