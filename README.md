@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prince-sahetya/Leetcodes/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/prince-sahetya/Leetcodes/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/prince-sahetya/Leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/prince-sahetya/Leetcodes/tree/master/2833-furthest-point-from-origin) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/prince-sahetya/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prince-sahetya/Leetcodes/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
