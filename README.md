@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/prince-sahetya/Leetcodes/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/prince-sahetya/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prince-sahetya/Leetcodes/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-sahetya/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/prince-sahetya/Leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/prince-sahetya/Leetcodes/tree/master/2540-minimum-common-value) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/prince-sahetya/Leetcodes/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/prince-sahetya/Leetcodes/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/prince-sahetya/Leetcodes/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-sahetya/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prince-sahetya/Leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/prince-sahetya/Leetcodes/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prince-sahetya/Leetcodes/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/prince-sahetya/Leetcodes/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prince-sahetya/Leetcodes/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/prince-sahetya/Leetcodes/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/prince-sahetya/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prince-sahetya/Leetcodes/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prince-sahetya/Leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
@@ -93,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/prince-sahetya/Leetcodes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
