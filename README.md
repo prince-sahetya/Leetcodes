@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prince-sahetya/Leetcodes/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/prince-sahetya/Leetcodes/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/prince-sahetya/Leetcodes/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prince-sahetya/Leetcodes/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/prince-sahetya/Leetcodes/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prince-sahetya/Leetcodes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2540-minimum-common-value](https://github.com/prince-sahetya/Leetcodes/tree/master/2540-minimum-common-value) |
