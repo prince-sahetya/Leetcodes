@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/prince-sahetya/Leetcodes/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prince-sahetya/Leetcodes/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prince-sahetya/Leetcodes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/prince-sahetya/Leetcodes/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
