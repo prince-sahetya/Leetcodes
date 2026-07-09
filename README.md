@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prince-sahetya/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prince-sahetya/Leetcodes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-sahetya/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/prince-sahetya/Leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/prince-sahetya/Leetcodes/tree/master/2540-minimum-common-value) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/prince-sahetya/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-sahetya/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/prince-sahetya/Leetcodes/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prince-sahetya/Leetcodes/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prince-sahetya/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prince-sahetya/Leetcodes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1288-remove-covered-intervals](https://github.com/prince-sahetya/Leetcodes/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prince-sahetya/Leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prince-sahetya/Leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
