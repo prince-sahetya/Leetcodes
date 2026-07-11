@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/prince-sahetya/Leetcodes/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prince-sahetya/Leetcodes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/prince-sahetya/Leetcodes/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/prince-sahetya/Leetcodes/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/prince-sahetya/Leetcodes/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prince-sahetya/Leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prince-sahetya/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0905-sort-array-by-parity](https://github.com/prince-sahetya/Leetcodes/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/prince-sahetya/Leetcodes/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/prince-sahetya/Leetcodes/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/prince-sahetya/Leetcodes/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/prince-sahetya/Leetcodes/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/prince-sahetya/Leetcodes/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prince-sahetya/Leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
