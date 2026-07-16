@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/prince-sahetya/Leetcodes/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/prince-sahetya/Leetcodes/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/prince-sahetya/Leetcodes/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/prince-sahetya/Leetcodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/prince-sahetya/Leetcodes/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prince-sahetya/Leetcodes/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/prince-sahetya/Leetcodes/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/prince-sahetya/Leetcodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/prince-sahetya/Leetcodes/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/prince-sahetya/Leetcodes/tree/master/0389-find-the-difference) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prince-sahetya/Leetcodes/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/prince-sahetya/Leetcodes/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
