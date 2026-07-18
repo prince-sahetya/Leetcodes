@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/prince-sahetya/Leetcodes/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/prince-sahetya/Leetcodes/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prince-sahetya/Leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prince-sahetya/Leetcodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/prince-sahetya/Leetcodes/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prince-sahetya/Leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/prince-sahetya/Leetcodes/tree/master/2540-minimum-common-value) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/prince-sahetya/Leetcodes/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prince-sahetya/Leetcodes/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prince-sahetya/Leetcodes/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prince-sahetya/Leetcodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/prince-sahetya/Leetcodes/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prince-sahetya/Leetcodes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prince-sahetya/Leetcodes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prince-sahetya/Leetcodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prince-sahetya/Leetcodes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prince-sahetya/Leetcodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
