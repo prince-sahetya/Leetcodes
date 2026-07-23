@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prince-sahetya/Leetcodes/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/prince-sahetya/Leetcodes/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/prince-sahetya/Leetcodes/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/prince-sahetya/Leetcodes/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/prince-sahetya/Leetcodes/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prince-sahetya/Leetcodes/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/prince-sahetya/Leetcodes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/prince-sahetya/Leetcodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/prince-sahetya/Leetcodes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/prince-sahetya/Leetcodes/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prince-sahetya/Leetcodes/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
