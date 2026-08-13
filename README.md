@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/prince-sahetya/Leetcodes/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prince-sahetya/Leetcodes/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/prince-sahetya/Leetcodes/tree/master/1288-remove-covered-intervals) |
+| [1539-kth-missing-positive-number](https://github.com/prince-sahetya/Leetcodes/tree/master/1539-kth-missing-positive-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prince-sahetya/Leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prince-sahetya/Leetcodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/prince-sahetya/Leetcodes/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/prince-sahetya/Leetcodes/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prince-sahetya/Leetcodes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prince-sahetya/Leetcodes/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/prince-sahetya/Leetcodes/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prince-sahetya/Leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/prince-sahetya/Leetcodes/tree/master/2540-minimum-common-value) |
 ## Two Pointers
