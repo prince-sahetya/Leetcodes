@@ -1,6 +1,6 @@
 class Solution {
-public:
-     void f(int index , int target , vector<int>& ds , vector<int>& candidates ,vector<vector<int>>& ans){
+    private:
+    void f(int index , int target , vector<int>& ds , vector<int>& candidates ,vector<vector<int>>& ans){
         int n=candidates.size();
         if(index==n){
             if(target==0){
@@ -23,6 +23,7 @@ public:
      }
 
 
+public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>>ans;
         vector<int>ds;
