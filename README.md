@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prince-sahetya/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince-sahetya/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-sahetya/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/prince-sahetya/Leetcodes/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/prince-sahetya/Leetcodes/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/prince-sahetya/Leetcodes/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prince-sahetya/Leetcodes/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -147,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prince-sahetya/Leetcodes/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prince-sahetya/Leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/prince-sahetya/Leetcodes/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-sahetya/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/prince-sahetya/Leetcodes/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/prince-sahetya/Leetcodes/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/prince-sahetya/Leetcodes/tree/master/1137-n-th-tribonacci-number) |
 ## Enumeration
 |  |
