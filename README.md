@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prince-sahetya/Leetcodes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prince-sahetya/Leetcodes/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/prince-sahetya/Leetcodes/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/prince-sahetya/Leetcodes/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/prince-sahetya/Leetcodes/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prince-sahetya/Leetcodes/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/prince-sahetya/Leetcodes/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/prince-sahetya/Leetcodes/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0410-split-array-largest-sum) |
@@ -244,5 +246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prince-sahetya/Leetcodes/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/prince-sahetya/Leetcodes/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
