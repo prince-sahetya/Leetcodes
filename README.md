@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prince-sahetya/Leetcodes/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/prince-sahetya/Leetcodes/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/prince-sahetya/Leetcodes/tree/master/1189-maximum-number-of-balloons) |
+| [1903-largest-odd-number-in-string](https://github.com/prince-sahetya/Leetcodes/tree/master/1903-largest-odd-number-in-string) |
 | [2833-furthest-point-from-origin](https://github.com/prince-sahetya/Leetcodes/tree/master/2833-furthest-point-from-origin) |
 ## Counting
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/prince-sahetya/Leetcodes/tree/master/0367-valid-perfect-square) |
 | [1137-n-th-tribonacci-number](https://github.com/prince-sahetya/Leetcodes/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prince-sahetya/Leetcodes/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/prince-sahetya/Leetcodes/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prince-sahetya/Leetcodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/prince-sahetya/Leetcodes/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/prince-sahetya/Leetcodes/tree/master/3536-maximum-product-of-two-digits) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prince-sahetya/Leetcodes/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prince-sahetya/Leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1903-largest-odd-number-in-string](https://github.com/prince-sahetya/Leetcodes/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/prince-sahetya/Leetcodes/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Prefix Sum
 |  |
