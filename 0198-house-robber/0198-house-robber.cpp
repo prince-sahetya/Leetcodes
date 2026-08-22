@@ -1,17 +1,15 @@
 class Solution {
 public:
-    int f(int indx, vector<int>&nums,vector<int>&dp){
-        if(indx<0) return 0;
-        if(dp[indx]!=-1) return dp[indx];
-        return dp[indx]=max(f(indx-2,nums,dp) + nums[indx],f(indx-3,nums,dp) + nums[indx-1]);  
-    }
+    
     int rob(vector<int>& nums) {
-        vector<int>dp(nums.size(),-1);
-        dp[0]=nums[0];
-        if(nums.size()>=2)dp[1]=max(nums[0],nums[1]);
-        int ans = f(nums.size()-1,nums,dp);
-        return ans;
-
+       vector<int>dp(nums.size(),-1);
+       dp[0]=nums[0];
+       for(int i=1;i<nums.size();i++){
+        int take =   nums[i] ; if(i>1) take+=dp[i-2]   ;
+        int nottake = dp[i-1] ;
+        dp[i]=max(take,nottake);
+       }
+       return dp[nums.size()-1];
         
     }
 };
