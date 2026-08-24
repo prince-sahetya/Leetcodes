@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prince-sahetya/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prince-sahetya/Leetcodes/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/prince-sahetya/Leetcodes/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/prince-sahetya/Leetcodes/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/prince-sahetya/Leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/prince-sahetya/Leetcodes/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/prince-sahetya/Leetcodes/tree/master/1927-sum-game) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/prince-sahetya/Leetcodes/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prince-sahetya/Leetcodes/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/prince-sahetya/Leetcodes/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/prince-sahetya/Leetcodes/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prince-sahetya/Leetcodes/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/prince-sahetya/Leetcodes/tree/master/1903-largest-odd-number-in-string) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prince-sahetya/Leetcodes/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/prince-sahetya/Leetcodes/tree/master/0412-fizz-buzz) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prince-sahetya/Leetcodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
