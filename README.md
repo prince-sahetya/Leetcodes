@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/prince-sahetya/Leetcodes/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-sahetya/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/prince-sahetya/Leetcodes/tree/master/0704-binary-search) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prince-sahetya/Leetcodes/tree/master/0125-valid-palindrome) |
+| [0455-assign-cookies](https://github.com/prince-sahetya/Leetcodes/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/prince-sahetya/Leetcodes/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/prince-sahetya/Leetcodes/tree/master/2540-minimum-common-value) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/prince-sahetya/Leetcodes/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/prince-sahetya/Leetcodes/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prince-sahetya/Leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/prince-sahetya/Leetcodes/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/prince-sahetya/Leetcodes/tree/master/1927-sum-game) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/prince-sahetya/Leetcodes/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/prince-sahetya/Leetcodes/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/prince-sahetya/Leetcodes/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/prince-sahetya/Leetcodes/tree/master/1051-height-checker) |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0416-partition-equal-subset-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/prince-sahetya/Leetcodes/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
