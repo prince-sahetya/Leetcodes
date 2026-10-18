@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prince-sahetya/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince-sahetya/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/prince-sahetya/Leetcodes/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/prince-sahetya/Leetcodes/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/prince-sahetya/Leetcodes/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/prince-sahetya/Leetcodes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prince-sahetya/Leetcodes/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/prince-sahetya/Leetcodes/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/prince-sahetya/Leetcodes/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0416-partition-equal-subset-sum) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/prince-sahetya/Leetcodes/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -309,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/prince-sahetya/Leetcodes/tree/master/0455-assign-cookies) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/prince-sahetya/Leetcodes/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/prince-sahetya/Leetcodes/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
