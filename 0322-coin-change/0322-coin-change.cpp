@@ -28,7 +28,7 @@ public:
 
     int coinChange(vector<int>& coins, int a) {
       
-vector<vector<int>> dp(coins.size(), vector<int>(a + 1, -2));
+vector<vector<long long >> dp(coins.size(), vector<long long >(a + 1, -2));
       
     for(int i=0 ; i <= a ; i++){
         if(i%coins[0] == 0 ) dp[0][i]= i/coins[0];
@@ -36,10 +36,10 @@ vector<vector<int>> dp(coins.size(), vector<int>(a + 1, -2));
     }
     for(int i = 1 ; i < coins.size() ; i++){
         for(int t = 0 ; t <= a ; t++){
-             int pick = 1e9;
+             long long  pick = 1e9;
 
         if(coins[i] <= t ) pick = dp[i][t-coins[i]] + 1 ;
-       int notpick = dp[i-1][t];
+       long long  notpick = dp[i-1][t];
         dp[i][t]=min(pick,notpick);
         }
     }
