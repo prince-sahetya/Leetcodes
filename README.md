@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/prince-sahetya/Leetcodes/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-sahetya/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/prince-sahetya/Leetcodes/tree/master/0704-binary-search) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/prince-sahetya/Leetcodes/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0494-target-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/prince-sahetya/Leetcodes/tree/master/1137-n-th-tribonacci-number) |
 ## Enumeration
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prince-sahetya/Leetcodes/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/prince-sahetya/Leetcodes/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0494-target-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -304,10 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/prince-sahetya/Leetcodes/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0494-target-sum) |
 ## Quicksort
 |  |
 | ------- |
