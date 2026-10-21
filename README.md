@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/prince-sahetya/Leetcodes/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/prince-sahetya/Leetcodes/tree/master/1927-sum-game) |
 | [2833-furthest-point-from-origin](https://github.com/prince-sahetya/Leetcodes/tree/master/2833-furthest-point-from-origin) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/prince-sahetya/Leetcodes/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
 | ------- |
