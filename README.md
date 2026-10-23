@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/prince-sahetya/Leetcodes/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/prince-sahetya/Leetcodes/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/prince-sahetya/Leetcodes/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prince-sahetya/Leetcodes/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/prince-sahetya/Leetcodes/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/prince-sahetya/Leetcodes/tree/master/1927-sum-game) |
 | [2833-furthest-point-from-origin](https://github.com/prince-sahetya/Leetcodes/tree/master/2833-furthest-point-from-origin) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/prince-sahetya/Leetcodes/tree/master/0518-coin-change-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/prince-sahetya/Leetcodes/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/prince-sahetya/Leetcodes/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prince-sahetya/Leetcodes/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Enumeration
 |  |
 | ------- |
