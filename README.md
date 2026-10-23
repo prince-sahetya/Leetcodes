@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prince-sahetya/Leetcodes/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/prince-sahetya/Leetcodes/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/prince-sahetya/Leetcodes/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/prince-sahetya/Leetcodes/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/prince-sahetya/Leetcodes/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/prince-sahetya/Leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/prince-sahetya/Leetcodes/tree/master/1903-largest-odd-number-in-string) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/prince-sahetya/Leetcodes/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/prince-sahetya/Leetcodes/tree/master/0518-coin-change-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/prince-sahetya/Leetcodes/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/prince-sahetya/Leetcodes/tree/master/1143-longest-common-subsequence) |
