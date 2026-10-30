@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prince-sahetya/Leetcodes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prince-sahetya/Leetcodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prince-sahetya/Leetcodes/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/prince-sahetya/Leetcodes/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/prince-sahetya/Leetcodes/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/prince-sahetya/Leetcodes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/prince-sahetya/Leetcodes/tree/master/0073-set-matrix-zeroes) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/prince-sahetya/Leetcodes/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/prince-sahetya/Leetcodes/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/prince-sahetya/Leetcodes/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prince-sahetya/Leetcodes/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/prince-sahetya/Leetcodes/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/prince-sahetya/Leetcodes/tree/master/0389-find-the-difference) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/prince-sahetya/Leetcodes/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prince-sahetya/Leetcodes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/prince-sahetya/Leetcodes/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
