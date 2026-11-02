@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prince-sahetya/Leetcodes/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/prince-sahetya/Leetcodes/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/prince-sahetya/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prince-sahetya/Leetcodes/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/prince-sahetya/Leetcodes/tree/master/0389-find-the-difference) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/prince-sahetya/Leetcodes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/prince-sahetya/Leetcodes/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/prince-sahetya/Leetcodes/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/prince-sahetya/Leetcodes/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/prince-sahetya/Leetcodes/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/prince-sahetya/Leetcodes/tree/master/0198-house-robber) |
