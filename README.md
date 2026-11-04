@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/prince-sahetya/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/prince-sahetya/Leetcodes/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prince-sahetya/Leetcodes/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0860-lemonade-change](https://github.com/prince-sahetya/Leetcodes/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/prince-sahetya/Leetcodes/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/prince-sahetya/Leetcodes/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince-sahetya/Leetcodes/tree/master/0977-squares-of-a-sorted-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prince-sahetya/Leetcodes/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/prince-sahetya/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/prince-sahetya/Leetcodes/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/prince-sahetya/Leetcodes/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prince-sahetya/Leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/prince-sahetya/Leetcodes/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/prince-sahetya/Leetcodes/tree/master/1927-sum-game) |
