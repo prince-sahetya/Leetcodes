@@ -7,12 +7,12 @@ public:
             ok = true ;
 
             for(int j =0;j<arr2.size();j++){
-                if(abs(arr1[i]-arr2[j]) <= d ) ok =false ;
+                if(abs(arr1[i]-arr2[j]) <= d ){ ok =false ; break ;}
             }
             if(ok) ans++ ; 
         }
          return ans ;
-         
+
 
     }
 };
