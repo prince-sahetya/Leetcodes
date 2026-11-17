@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prince-sahetya/Leetcodes/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/prince-sahetya/Leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -382,4 +383,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/prince-sahetya/Leetcodes/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/prince-sahetya/Leetcodes/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/prince-sahetya/Leetcodes/tree/master/1143-longest-common-subsequence) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prince-sahetya/Leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prince-sahetya/Leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prince-sahetya/Leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
