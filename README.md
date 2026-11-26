@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/prince-sahetya/Leetcodes/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/prince-sahetya/Leetcodes/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prince-sahetya/Leetcodes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3360-stone-removal-game](https://github.com/prince-sahetya/Leetcodes/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/prince-sahetya/Leetcodes/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/prince-sahetya/Leetcodes/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prince-sahetya/Leetcodes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/prince-sahetya/Leetcodes/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/prince-sahetya/Leetcodes/tree/master/0412-fizz-buzz) |
+| [3360-stone-removal-game](https://github.com/prince-sahetya/Leetcodes/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prince-sahetya/Leetcodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
